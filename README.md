@@ -12,13 +12,6 @@ Inspiration and guidance for this project were drawn from a comprehensive tutori
 - NumPy
 - [Darknet YOLOv3 model](https://github.com/pjreddie/darknet)
 
-## Setup and Usage
-
-1. Clone this repository to your local machine.
-2. Download the YOLOv3 weights and Config along with coco.names from the [Darknet repository](https://github.com/pjreddie/darknet) 
-3. Edit video_path = 'CityScene.mp4' to match your own video.
-4. Follow the comments in the notebook to understand and use object detection on your own video
-
 ## License
 
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
